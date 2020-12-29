@@ -17111,6 +17111,7 @@ a.navbar-brand span.fa {
     display: grid;
     align-items: center;
     position: relative;
+    display: none;
 }
 @media (max-width: 992px) {
     .w3l-main-banner h3.gallery4-head {
