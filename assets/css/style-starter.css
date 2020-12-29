@@ -13499,6 +13499,7 @@ a.navbar-brand span.fa {
     display: grid;
     align-items: center;
     position: relative;
+    display: none;
 }
 
 @media (max-width: 992px) {
