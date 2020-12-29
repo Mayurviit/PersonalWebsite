@@ -13496,7 +13496,6 @@ a.navbar-brand span.fa {
     background-size: cover;
     min-height: 10px;
     z-index: 0;
-    display: grid;
     align-items: center;
     position: relative;
     display: none;
